@@ -1,7 +1,5 @@
-Lista dos nomes brasileiros mais populares por gênero.
+List of the most popular Brazilian names by gender.
 
-Extraído de [Nomes no Brasil – IBGE](http://censo2010.ibge.gov.br/nomes/#/search).
+Extracted from [Names in Brazil – IBGE](http://censo2010.ibge.gov.br/nomes/#/search).
 
-### Todo
-
-- Explicar como foram extraídos os nomes
+This repo uses names already classified in F/M from: https://github.com/MedidaSP/nomes-brasileiros-ibge
